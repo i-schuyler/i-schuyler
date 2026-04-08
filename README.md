@@ -19,7 +19,7 @@ My work currently includes:
 ## Featured work
 - **[esp32-s3-media-player](https://github.com/i-schuyler/esp32-s3-media-player)** — embedded firmware and local web tooling for media playback
 - **[heartloom-vaultmeta](https://github.com/i-schuyler/heartloom-vaultmeta)** — stable Markdown reports that make Obsidian vaults easier to read and navigate
-- **[termux-utils](https://github.com/i-schuyler/termux-utils)** — practical Termux utilities and workflow tooling
+- **[Tesla-M3-Bms-Software](https://github.com/i-schuyler/Tesla-M3-Bms-Software)** — embedded firmware and investigation-driven technical work for Tesla Model 3 battery management hardware
 - **[heartloom-identity](https://github.com/i-schuyler/heartloom-identity)** — canonical identity, workflow, and ecosystem-shaping infrastructure for the Heartloom repo constellation
 
 ## Support my work
