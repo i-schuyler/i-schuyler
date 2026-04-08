@@ -20,10 +20,10 @@ My work currently includes:
 
 ## Featured work
 - **[heartloom-source](https://github.com/i-schuyler/heartloom-source)** — upstream source texts for Heartloom’s meaning, law, and orientation
-- **[esp32-s3-media-player](https://github.com/i-schuyler/esp32-s3-media-player)** — embedded firmware and local web tooling for media playback
-- **[heartloom-vaultmeta](https://github.com/i-schuyler/heartloom-vaultmeta)** — stable Markdown reports that make Obsidian vaults easier to read and navigate
-- **[Tesla-M3-Bms-Software](https://github.com/i-schuyler/Tesla-M3-Bms-Software)** — embedded firmware and investigation-driven technical work for Tesla Model 3 battery management hardware
 - **[heartloom-identity](https://github.com/i-schuyler/heartloom-identity)** — downstream identity, inheritance workflow, and ecosystem-shaping infrastructure for the Heartloom repo constellation
+- **[heartloom-vaultmeta](https://github.com/i-schuyler/heartloom-vaultmeta)** — stable Markdown reports that make Obsidian vaults easier to read and navigate
+- **[esp32-s3-media-player](https://github.com/i-schuyler/esp32-s3-media-player)** — embedded firmware and local web tooling for media playback
+- **[Tesla-M3-Bms-Software](https://github.com/i-schuyler/Tesla-M3-Bms-Software)** — embedded firmware and investigation-driven technical work for Tesla Model 3 battery management hardware
 
 ## Support my work
 If this work is useful, support helps fund ongoing maintenance, testing, debugging, and documentation.
