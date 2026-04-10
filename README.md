@@ -26,6 +26,6 @@ My work currently includes:
 - **[Tesla-M3-Bms-Software](https://github.com/i-schuyler/Tesla-M3-Bms-Software)** — embedded firmware and investigation-driven technical work for Tesla Model 3 battery management hardware
 
 ## Support my work
-If this work is useful, support helps fund ongoing maintenance, testing, debugging, and documentation.
+If this work is useful for you, support helps fund ongoing maintenance, testing, debugging, and documentation.
 
 - **GitHub Sponsors:** https://github.com/sponsors/i-schuyler
